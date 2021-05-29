@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f80ac57-298d-4ad0-8338-ccffda3d318a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_discordBot/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_memberSort/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2100" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621788800125">
